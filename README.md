@@ -24,10 +24,7 @@ Project ORION is a browser-based, high-fidelity situational awareness dashboard 
 ## 🛠️ Installation & Setup
 To run this console locally for evaluation:
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/beware16/Ytactical-command-console.git
-   cd tactical-command-console
+
 
 
 
